@@ -2,6 +2,8 @@
 
 A simple web application listing installation information to installed pods.
 
+![ci](https://github.com/holzeis/daphnis/actions/workflows/go.yml/badge.svg)
+
 ![Daphnis Service Overview](images/daphnis.png "Daphnis Service Overview")
 
 ## Running Daphnis
